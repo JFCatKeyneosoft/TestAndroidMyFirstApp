@@ -18,7 +18,13 @@ Just create new app for Android device
 * move project in git repository
 * commit your project on GitHub 
 
-<img src="./Resources/Images/image1.png" width="150" height="100" name="OrteliusWorldMap" onmouseover="OrteliusWorldMap.width='300';OrteliusWorldMap.height='200';" onmouseout="OrteliusWorldMap.width='150';OrteliusWorldMap.height='100';" //>
+<div markdown="1" style="border: solid 1px black">
+
+	   This is a div with Markdown **strong text**
+	   
+	</div>
+	
+<img src="./Resources/Images/image1.png" width="20%" height="20%" name="image1" onmouseover="image1.width='100%';image1.height='100%';" onmouseout="image1.width='20%';image1.height='20%';" />
 
 <a href="./Resources/Images/image1.png" data-lightbox="roadtrip"> Image #1</a>
 
