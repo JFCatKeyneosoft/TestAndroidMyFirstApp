@@ -18,7 +18,9 @@ Just create new app for Android device
 * move project in git repository
 * commit your project on GitHub 
 
-<a href="./Resources/Images/image1.png" data-lightbox="roadtrip"><img src="./Resources/Images/image1.png"/> Image #1</a>
+<img src="./Resources/Images/image1.png"/>
+
+<a href="./Resources/Images/image1.png" data-lightbox="roadtrip"> Image #1</a>
 
 <a href="./Resources/Images/image2.png" data-lightbox="roadtrip">Image #2</a>
 
