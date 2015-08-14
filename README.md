@@ -1,3 +1,6 @@
+<link href="./Resources/lightbox.css" rel="stylesheet">
+<script src="./Resources/lightbox-plus-jquery.js"></script>
+
 #Test Android My First App
 
 ######Learn to develop
@@ -7,6 +10,10 @@ Just create new app for Android device
 * create GitHub repository (https://gitgub.com)
 * move project in git repository
 * commit your project on GitHub 
+
+<a href="./Resources/Images/image1.png" data-lightbox="roadtrip">Image #1</a>
+<a href="./Resources/Images/image2.png" data-lightbox="roadtrip">Image #2</a>
+<a href="./Resources/Images/image3.png" data-lightbox="roadtrip">Image #3</a>
 
 ######Learn continuous integration
 
