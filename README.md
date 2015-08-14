@@ -1,5 +1,10 @@
+
+
 <link href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/css/lightbox.css" rel="stylesheet">
+
+
 <script src="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/js/lightbox-plus-jquery.js"></script>
+
 
 #Test Android My First App
 
@@ -12,7 +17,9 @@ Just create new app for Android device
 * commit your project on GitHub 
 
 <a href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/Images/image1.png" data-lightbox="roadtrip">Image #1</a>
+
 <a href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/Images/image2.png" data-lightbox="roadtrip">Image #2</a>
+
 <a href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/Images/image3.png" data-lightbox="roadtrip">Image #3</a>
 
 ######Learn continuous integration
