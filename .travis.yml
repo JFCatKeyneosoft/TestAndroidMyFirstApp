@@ -1,0 +1,19 @@
+sudo: false
+language: android
+jdk: oraclejdk7
+
+android:
+    components:
+    - platform-tools
+    - android-22
+    - build-tools-22.0.1
+    - extra
+
+before_install:
+- chmod +x ./travis/before_script.sh
+- chmod +x ./travis/install.sh
+- chmod +x ./travis/script.sh
+
+before_script: ./travis/before_script.sh
+install: ./travis/install.sh
+script: ./travis/script.sh
