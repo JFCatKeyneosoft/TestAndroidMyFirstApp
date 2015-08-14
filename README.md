@@ -18,7 +18,7 @@ Just create new app for Android device
 * move project in git repository
 * commit your project on GitHub 
 
-<img src="./Resources/Images/image1.png"/>
+<img src="./Resources/Images/image1.png" width="150" height="100" name="OrteliusWorldMap" onmouseover="OrteliusWorldMap.width='300';OrteliusWorldMap.height='200';" onmouseout="OrteliusWorldMap.width='150';OrteliusWorldMap.height='100';" //>
 
 <a href="./Resources/Images/image1.png" data-lightbox="roadtrip"> Image #1</a>
 
