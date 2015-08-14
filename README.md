@@ -24,6 +24,11 @@ Just create new app for Android device
 	   
 	</div>
 	
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
+- [x] list syntax is required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+	
 <img src="./Resources/Images/image1.png" width="20%" height="20%" name="image1" onmouseover="image1.width='100%';image1.height='100%';" onmouseout="image1.width='20%';image1.height='20%';" />
 
 <a href="./Resources/Images/image1.png" data-lightbox="roadtrip"> Image #1</a>
