@@ -10,7 +10,7 @@
 ##States of Projet
 
 [![Build Status](https://travis-ci.org/JFCatKeyneosoft/TestAndroidMyFirstApp.svg?branch=master)](https://travis-ci.org/JFCatKeyneosoft/TestAndroidMyFirstApp)
-![Build Status](http://img.shields.io/coveralls/JFCatKeyneosoft/TestAndroidMyFirstApp.svg?)
+[![Build Status](http://img.shields.io/coveralls/JFCatKeyneosoft/TestAndroidMyFirstApp.svg?)](https://coveralls.io/github/JFCatKeyneosoft/TestAndroidMyFirstApp)
 
 ## Platform and Languages
 ![Platform Status](https://img.shields.io/badge/platform-Android-lightgray.svg)
