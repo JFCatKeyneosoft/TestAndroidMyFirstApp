@@ -3,9 +3,11 @@
 
 
 <link href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/css/lightbox.css" rel="stylesheet">
+</link>
 
 
-<script src="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/js/lightbox-plus-jquery.js"></script>
+<script src="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/js/lightbox-plus-jquery.js">
+</script>
 
 
 ######Learn to develop
