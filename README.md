@@ -1,15 +1,6 @@
 
 #Test Android My First App
 
-
-<link href="./Resources/JavaScript/lightbox/css/lightbox.css" rel="stylesheet">
-</link>
-
-
-<script src="./Resources/JavaScript/lightbox/js/lightbox-plus-jquery.js">
-</script>
-
-
 ######Learn to develop
 
 Just create new app for Android device
@@ -17,25 +8,6 @@ Just create new app for Android device
 * create GitHub repository (https://gitgub.com)
 * move project in git repository
 * commit your project on GitHub 
-
-<div markdown="1" style="border: solid 1px black">
-
-	   This is a div with Markdown **strong text**
-	   
-	</div>
-	
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
-- [x] list syntax is required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-	
-<img src="./Resources/Images/image1.png" width="20%" height="20%" name="image1" onmouseover="image1.width='100%';image1.height='100%';" onmouseout="image1.width='20%';image1.height='20%';" />
-
-<a href="./Resources/Images/image1.png" data-lightbox="roadtrip"> Image #1</a>
-
-<a href="./Resources/Images/image2.png" data-lightbox="roadtrip">Image #2</a>
-
-<a href="./Resources/Images/image3.png" data-lightbox="roadtrip">Image #3</a>
 
 ######Learn continuous integration
 
