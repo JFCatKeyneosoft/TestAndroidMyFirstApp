@@ -2,11 +2,11 @@
 #Test Android My First App
 
 
-<link href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/css/lightbox.css" rel="stylesheet">
+<link href="./Resources/JavaScript/lightbox/css/lightbox.css" rel="stylesheet">
 </link>
 
 
-<script src="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/JavaScript/lightbox/js/lightbox-plus-jquery.js">
+<script src="./Resources/JavaScript/lightbox/js/lightbox-plus-jquery.js">
 </script>
 
 
@@ -18,11 +18,11 @@ Just create new app for Android device
 * move project in git repository
 * commit your project on GitHub 
 
-<a href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/Images/image1.png" data-lightbox="roadtrip">Image #1</a>
+<a href="./Resources/Images/image1.png" data-lightbox="roadtrip"><img src="./Resources/Images/image1.png"/> Image #1</a>
 
-<a href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/Images/image2.png" data-lightbox="roadtrip">Image #2</a>
+<a href="./Resources/Images/image2.png" data-lightbox="roadtrip">Image #2</a>
 
-<a href="https://github.com/JFCatKeyneosoft/TestAndroidMyFirstApp/blob/master/Resources/Images/image3.png" data-lightbox="roadtrip">Image #3</a>
+<a href="./Resources/Images/image3.png" data-lightbox="roadtrip">Image #3</a>
 
 ######Learn continuous integration
 
