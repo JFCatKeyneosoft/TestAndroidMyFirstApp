@@ -10,6 +10,7 @@ Just create new app for Android device
 
 ######Learn continuous integration
 
+Add continuous integration of our repository
 * go on Travis CI (https://travis-ci.org)
 	* login with your GitHub account
 	* add project in continuous integration
@@ -49,6 +50,18 @@ Just create new app for Android device
 * commit your project on GitHub 
 
 ######Learn coverage
+
+######Learn branch
+On GitHub your project have one branch : "master". Create 3 branchs : "development", "release", "distribution"
+
+* "development" the brach to commit the development, not stable, not building
+* "master" the branch to merge development, stable, building, Continous integration and coverage!
+* "release" the branch of release of project, stable, build
+* "distribution" the branch of distribution, stable, build, distribute in store
+
+When the development is in progress, it's push on "development". When the development is finish it's push on "master". When the project it's usable and need user's test push it on "release". When the project is ok to be distribute on App's store push on distribute.
+
+You can create more than one "development" branch, for example one branch per developer like this "developement-jfcatkeyneosoft" or one branch per module like this "developement-homescreen" … 
 
 ##Authors
 ![Licence Status](https://img.shields.io/badge/Author-Jean--François%20CONTART-purple.svg)
